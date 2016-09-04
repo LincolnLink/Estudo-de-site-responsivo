@@ -36,6 +36,9 @@ img {
 .bg-black{
 	background-color: #130400;
 }
+.bg-white{
+	background-color: #fff;
+}
 
 /*==========================CABEÇALHO==========================*/
 .logo{
@@ -119,17 +122,15 @@ img {
 	border-radius: 10px;
 }
 .btn-cadastrar{
-	background-color: #fff;
 	color: #130400;
 }
 .btn-sobre{	
 	color: #fff;
 	margin-top: 2%;
 }
-/*==========================BANNER==========================*/
+/*==========================serviços==========================*/
 .servico{
-	width: 100%
-	background-color#fff;
+	width: 100%;
 	text-align: left;
 	border-radius: 7px;
 	margin-bottom: 3%;
@@ -138,7 +139,7 @@ img {
 	border-radius: 7px 7px 0 0;
 }
 .inner{
-	padding: 3%;
+	padding: 2%;
 }
 .inner a{
 	font-size: 1.5em;
@@ -156,9 +157,6 @@ img {
 	line-height: 1.5em;
 }
 /*==========================Newsletter==========================*/
-.newsletter{	
-	background-color: #130400;	
-}
 .newsletter h2{
 	font-size: 1.5em;
 	color: #fff;
@@ -172,7 +170,6 @@ img {
 }
 .newsletter input{
 	width: 100%;
-	background-color: #130400;
 	color: #fff;
 	border: 1px solid rgba(255,255,255,0.3);
 	padding: 5%;
