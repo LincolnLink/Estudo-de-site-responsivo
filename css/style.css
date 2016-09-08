@@ -305,11 +305,11 @@ img {
 	}
 	.menu li a{
 		color: #130400 !important;
-		font-size: 1em;
-		padding: 15px;		
+		font-size: 1em !important;
+		padding: 15px !important;		
 	}
 	.menu li a:hover {
-		border: none;
-		color: #da6709;
+		border: none !important;
+		color: #da6709 !important;
 	}
 }
