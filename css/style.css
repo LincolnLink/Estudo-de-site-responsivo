@@ -80,12 +80,12 @@ img {
 	text-align: center;
 }
 .menu ul li{
-	padding: 1.5%;
+	/*padding: 0.1em;*/
 }
 .menu ul li a{
 	font-size: 2em;
 	color: #fff;
-	padding: 1.5% 3%;
+	padding: 1em 0.5em;
 }
 .menu ul li a:hover{
 	border: 1px solid #da6709;
@@ -283,7 +283,7 @@ img {
 
 /*===========Mobile FIRST===========*/
 /* LARGE DEVICES - TABLETS e DESKTOP */
-@media screen and (min-width: 1280px){
+@media screen and (min-width: 810px){
 	.btn-menu{
 		display: none;
 	}
@@ -306,7 +306,7 @@ img {
 	.menu li a{
 		color: #130400 !important;
 		font-size: 1em !important;
-		padding: 15px !important;		
+		padding: 1em !important;		
 	}
 	.menu li a:hover {
 		border: none !important;
