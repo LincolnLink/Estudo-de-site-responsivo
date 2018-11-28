@@ -6,7 +6,7 @@ Layout pronto!
 Não ultiliza bootstrap
 
 
-Link:  https://cdn.rawgit.com/LincolnLink/Estudo-de-site-responsivo/bea97a47/index.html
+Link:  http://manutectub.com.br/#/home
 
 
 Aplicações futuras para esse Layout:
