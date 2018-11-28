@@ -6,7 +6,6 @@ Layout pronto!
 Não ultiliza bootstrap
 
 
-Link:  http://manutectub.com.br/#/home
 
 
 Aplicações futuras para esse Layout:
