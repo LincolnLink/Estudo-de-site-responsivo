@@ -5,10 +5,5 @@ Layout pronto!
 
 Não ultiliza bootstrap
 
+Link: http://lincolnlink.github.io/PortfolioFrontEnd-EstudoDeSiteResponsivo/
 
-
-
-Aplicações futuras para esse Layout:
-
-- Desenvolver e aplicando conceitos UX na pratica.
-- Desenvolver e aplicar efeitos de CSS3.
